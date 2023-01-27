@@ -3,7 +3,7 @@
 This repo consists of all the solutions to the CodingBat Coding Questions hosted on the CodingBat website.
 
 ## DISCLAMER
-Te owner of this repo does not own or is not the producer of the questions on the COdingBat website. Just the solutions to those questions has been answered in this repo.
+The owner of this repo does not own or is not the producer of the questions on the CodingBat website. Just the solutions to those questions has been answered in this repo.
 
 
 ### About CodingBat
